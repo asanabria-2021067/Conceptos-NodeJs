@@ -1,0 +1,14 @@
+{
+  "name": "conceptos-nodejs",
+  "version": "1.0.0",
+  "description": "Prueba de servidor basico en NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Sanabria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
